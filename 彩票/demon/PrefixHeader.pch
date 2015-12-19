@@ -1,0 +1,7 @@
+
+
+
+
+#define kScreenSize [UIScreen mainScreen].bounds
+#define kScreenWidth kScreenSize.size.width
+#define kScreenHeight kScreenSize.size.height

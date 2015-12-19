@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>cellStyle</key>
+				<string>UITableViewCellStyleValue1</string>
+				<key>accessoryImageName</key>
+				<string>arrow_right</string>
+				<key>title</key>
+				<string>评分支持</string>
+				<key>accessory</key>
+				<string>UIImageView</string>
+			</dict>
+			<dict>
+				<key>detail</key>
+				<string>10086</string>
+				<key>cellStyle</key>
+				<string>UITableViewCellStyleValue1</string>
+				<key>accessory</key>
+				<string>UIImageView</string>
+				<key>accessoryImageName</key>
+				<string>arrow_right</string>
+				<key>title</key>
+				<string>客服电话</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
